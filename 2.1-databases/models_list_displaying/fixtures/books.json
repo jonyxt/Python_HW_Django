@@ -16,5 +16,77 @@
       "author": "Джордж Оруэл",
       "pub_date": "2016-12-06"
     }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Преступление и наказание",
+      "author": "Ф.М. Достоевский",
+      "pub_date": "2015-08-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Мастер и Маргарита",
+      "author": "М.А. Булгаков",
+      "pub_date": "2017-03-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Гарри Поттер и философский камень",
+      "author": "Дж. К. Роулинг",
+      "pub_date": "2001-09-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Улисс",
+      "author": "Джеймс Джойс",
+      "pub_date": "2014-06-17"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес",
+      "pub_date": "2013-11-05"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Анна Каренина",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2016-02-10"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Отцы и дети",
+      "author": "И.С. Тургенев",
+      "pub_date": "2012-04-22"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "451 градус по Фаренгейту",
+      "author": "Рэй Брэдбери",
+      "pub_date": "2015-09-15"
+    }
   }
 ]

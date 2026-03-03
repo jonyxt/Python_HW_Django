@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     'books',
 ]
 
@@ -57,6 +58,8 @@ DATABASES = {
         'NAME': 'netology_models_list',
         'HOST': '127.0.0.1',
         'PORT': '5432',
+        'USER': 'postgres',
+        'PASSWORD': '111'
     }
 }
 
