@@ -1,4 +1,5 @@
-from django.urls import path
+import debug_toolbar
+from django.urls import path, include
 
 from school.views import students_list
 
